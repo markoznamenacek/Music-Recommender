@@ -1,1 +1,2 @@
-# Project
+# Project - Music Recommender
+## Marko Znamenacek
