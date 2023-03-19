@@ -6,6 +6,3 @@
 
 ### Dataset
 #### https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?resource=download
-
-### Python code
-#### https://github.com/markoznamenacek/Music-Recommender/blob/main/Project%20-%20Music%20Recommender.ipynb
